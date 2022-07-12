@@ -1,4 +1,6 @@
 # Create a function called main.
+def a(b):
+    return -b
 
 # Create function arguments a.
 
